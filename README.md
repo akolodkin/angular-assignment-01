@@ -1,4 +1,4 @@
-# Anagular / C#
+# Angular / C#
 
 Goal: Demonstrate Angular Skills and C# skills
 
